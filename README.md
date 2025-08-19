@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/rawsab-aladhan-mcp-server-badge.png)](https://mseep.ai/app/rawsab-aladhan-mcp-server)
+
 # Aladhan MCP Server
 
 A Model Context Protocol (MCP) server that provides Islamic prayer times, Qibla direction, and Hijri date conversion using the [Aladhan API](http://api.aladhan.com).
